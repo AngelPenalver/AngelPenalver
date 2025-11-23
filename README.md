@@ -1,38 +1,82 @@
-<h1>Console.log('Hello world')</h1>
+<h1 align="center">👋 Hey, I'm Ángel — Backend Developer</h1>
 
-<p>
-  
-Hello! 👋🏻 I'm Ángel, a technology enthusiast.
-
-My goal is to grow professionally and personally, working as a team and constantly learning. This year I made the decision to do things that I like, that I am passionate about, and I started to dedicate myself to programming.
-
-As part of my training in web development, I have acquired knowledge and skills in: HTML, CSS, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.
-
-I consider myself a person who likes to help others and create attractive interactions, which is why I am fascinated by frontend design and its possibilities. Helping to improve the user experience and functionality of any web application
+<p align="center">
+  <strong>Node.js | NestJS | TypeScript | PostgreSQL | REST APIs</strong>
 </p>
 
-<h1>Languages and tools:</h1>
-<p align="left" dir="auto">  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="80" height="80" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;"> </a> 
-<a href="https://www.w3.org/html/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="80" height="80" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" style="max-width: 100%;"> </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="80" height="80" data-canonical-src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" style="max-width: 100%;"> </a>
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" alt="react" width="80" height="80" data-canonical-src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" style="max-width: 100%;"> </a>
-<a href="https://www.postgresql.org" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="80" height="80" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="max-width: 100%;"> </a>  
-<a href="https://nodejs.org" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="80" height="80" ge data-canonical-src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" style="max-width: 100%;"> </a>
-<a href="https://sequelize.org" rel="nofollow"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="80" heigh="80" data-canonical-src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" style="max-width: 100%;"> </a>
-<a href="https://expressjs.com" rel="nofollow"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" alt="express" width="80" height="80" data-canonical-src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" style="max-width: 100%;"> </a> 
-</p>
-<!--
-**AngelPenalver/AngelPenalver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Backend Developer** focused on building clean, scalable and well-structured server-side applications.  
+My priority today is mastering the **fundamentals of computer science and backend architecture**, writing code that is predictable, maintainable and easy to reason about.
+
+Over time, I learned that programming is not about accumulating technologies — it’s about understanding how things work underneath.  
+That’s why my current path is centered on:
+
+- HTTP & API design  
+- SQL and relational modeling  
+- Authentication & authorization  
+- Clean Architecture & SOLID principles  
+- Error handling and logging  
+- Performance-oriented backend development  
+
+I build projects using **Node.js + TypeScript + NestJS**, integrating PostgreSQL/MongoDB and documenting everything with Swagger.
+
+---
+
+## Tech Stack & Tools
+
+### **Backend**
+- **Node.js**, **TypeScript**, **NestJS**, **Express**
+- **PostgreSQL**, **MySQL**, **MongoDB**
+- **Prisma**, **TypeORM**, **Mongoose**
+- **JWT**, OAuth (Google/Auth0), RBAC
+
+### **Architecture & Practices**
+- REST API Design  
+- Clean Architecture  
+- SOLID Principles  
+- MVC / Modular Architecture  
+- CI/CD, Docker  
+
+### **Frontend (secondary)**
+- React, Next.js  
+- Redux Toolkit  
+- CSS / Tailwind  
+
+---
+
+## 📦 Highlight Project: Ecommerce API
+
+Currently developing a full backend for an e-commerce platform, including:
+
+- User authentication (JWT, RBAC)
+- Product & category management
+- Shopping cart with persistent sessions
+- Orders & payments module
+- Fully relational DB with PostgreSQL
+- Swagger documentation
+
+Repository: [github.com/AngelPenalver/ecommerce-api](https://github.com/AngelPenalver/ecommerce-api)
+
+---
+
+## What I'm Learning Now
+
+- SQL deeply (joins, CTEs, indexing, query optimization)
+- HTTP in depth: headers, CORS, caching
+- Design patterns commonly used in backend
+- Testing: unit + integration (Jest)
+
+---
+
+## Contact
+
+- **Email:** apenalver4@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/angelpenalver  
+- **Portfolio:** https://portfolio-angelpenalver.vercel.app  
+
+---
+
+<h3 align="center">"Good code works. Clean code lasts."</h3>
