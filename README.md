@@ -47,7 +47,7 @@ I build projects using **Node.js + TypeScript + NestJS**, integrating PostgreSQL
 
 ---
 
-## 📦 Highlight Project: Ecommerce API
+## Highlight Project: Ecommerce API
 
 Currently developing a full backend for an e-commerce platform, including:
 
